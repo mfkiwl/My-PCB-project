@@ -36,17 +36,16 @@
 ![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/4.png)
  
 
-# Step 3: Schematics
 
-# Step 4: PCB Design (Single Layer Board)
+# Step 3: PCB Design (Single Layer Board)
 Gerber File : https://github.com/NoClaus/My-PCB-project/blob/master/gerbers42.zip
-# Step 5: 3D Model (Top and Bottom View)
+# Step 4: 3D Model (Top and Bottom View)
  
 ![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/5.png)
 ![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/6.png)
 
 
-# Step 6: Steps to Order Your JLCPCB
+# Step 5: Steps to Order Your JLCPCB
  
  
  
