@@ -30,8 +30,10 @@
 
 # Step 2: Components Required
  
- 
- 
+![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/1.png)
+![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/2.png)
+![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/3.png)
+![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/4.png)
  
 
 
@@ -39,7 +41,8 @@
 # Step 4: PCB Design (Single Layer Board)
 # Step 5: 3D Model (Top and Bottom View)
  
- 
+![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/5.png)
+![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/6.png)
 
 
 # Step 6: Steps to Order Your JLCPCB
