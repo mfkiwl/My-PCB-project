@@ -54,7 +54,7 @@ Gerber File : https://github.com/NoClaus/My-PCB-project/blob/master/gerbers42.zi
 
 #Full Process is shown using Screenshots Step-wise
 
-Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to ![JLCPCB](https://jlcpcb.com/HAR ), and click on the “QUOTE NOW” button. JLCPCB is also a sponsor of this project. JLCPCB (ShenzhenJLC Electronics Co., Ltd.), is the largest PCB prototype enterprise in China and a high-tech manufacturer specializing in quick PCB prototype and small-batch PCB production.
+Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to [JLCPCB](https://jlcpcb.com/HAR ), and click on the “QUOTE NOW” button. JLCPCB is also a sponsor of this project. JLCPCB (ShenzhenJLC Electronics Co., Ltd.), is the largest PCB prototype enterprise in China and a high-tech manufacturer specializing in quick PCB prototype and small-batch PCB production.
 
 You can order a minimum of 5 PCBs for just $2. To get the PCB manufactured, upload the Gerber file you downloaded in the last step. Upload the.zip file or you can also drag and drop the Gerber files. After uploading the zip file, you’ll see a success message at the bottom of the file that is successfully uploaded. You can review the PCB in the Gerber viewer to make sure everything is good.
 
