@@ -47,8 +47,8 @@ Gerber File : https://github.com/NoClaus/My-PCB-project/blob/master/gerbers42.zi
 
 # Step 5: Steps to Order Your JLCPCB
  
- 
- 
-
+ ![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/7.png)
+ ![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/8.png)
+![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/9.png)
 
 
