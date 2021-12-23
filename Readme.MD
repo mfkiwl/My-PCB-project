@@ -52,7 +52,7 @@ Gerber File : https://github.com/NoClaus/My-PCB-project/blob/master/gerbers42.zi
 ![Test project](https://raw.githubusercontent.com/NoClaus/My-PCB-project/master/9.png)
 
 
-#Full Process is shown using Screenshots Step-wise
+# Full Process is shown using Screenshots Step-wise
 
 Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to [JLCPCB](https://jlcpcb.com/HAR ), and click on the “QUOTE NOW” button. JLCPCB is also a sponsor of this project. JLCPCB (ShenzhenJLC Electronics Co., Ltd.), is the largest PCB prototype enterprise in China and a high-tech manufacturer specializing in quick PCB prototype and small-batch PCB production.
 
